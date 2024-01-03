@@ -4,7 +4,7 @@ Hi 👋 My name is Celson Simon Araujo Vieira
 Platform Engineer
 -----------------
 
-I love all about tech!!!
+Tech is my playground, and I'm always excited to discover new gadgets and ideas.
 
 * 🌍  I'm based in Mogi das Cruzes - BR
 * ✉️  You can contact me at [me@celson.dev](mailto:me@celson.dev)
